@@ -123,7 +123,7 @@ Dataset contains:
 
 ### Sales vs Profit by Sub-Category
 
-![Sales Profit Subcategory](../images/sales_profit_subcategory.png)
+![Sales Profit Subcategory](images/sales_profit_subcategory.png)
 )
 
 **Insight:** Some sub-categories achieve high sales but generate relatively low profits, indicating pricing or cost optimization opportunities.
